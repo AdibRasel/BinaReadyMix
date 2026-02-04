@@ -22,7 +22,7 @@ import AdminReport from "./Components/AdminReport/AdminReport";
 import BottomToTopButton from "./Components/BottomToTopButton/BottomToTopButton";
 import EmployeePage from "./Page/EmployeeList/EmployeePage";
 // start commend npm run dev -- --host 0.0.0.0
-// deploy npm run deploy
+// deploy npm run deploy deploy again
 
 const login = true; // false দিলে NotFound দেখাবে
 
