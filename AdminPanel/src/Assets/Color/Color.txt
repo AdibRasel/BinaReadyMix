@@ -1,0 +1,4 @@
+Color 1 = #213448
+Color 2 = #547792
+Color 3 = #94B4C1
+Color 4 = #ECEFCA
